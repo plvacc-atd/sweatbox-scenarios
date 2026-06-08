@@ -1,0 +1,41 @@
+
+	/===============================\
+	| EPWA_APP - CHOPIN ENDORSEMENT |
+	|				|
+	|POLISH VACC ATC TRAINING CENTER|
+	\===============================/
+	 
+________________________________________________
+
+TO CONTROL PLANES:
+- TAG FAMILY MUST BE SET TO -> MATIAS (BUILT-IN)
+- QUICK SETTINGS MENU -> SHOW PILOTING LIST
+
+________________________________________________
+
+INITIALPSEUDOPILOT:EPWA_X_APP
+
+PSEUDOATC:
+- EPWW_CTR
+- EPWA_TWR
+- EPMO_TWR
+- EPLL_TWR (CTR ONLY)
+
+SWEATBOX WITH MENTOR:
+-  MENTOR - EPWA_X_APP
+- TRAINEE - EPWA_APP
+
+SWEATBOX TRAINEE ONLY:
+- TRAINEE - EPWA_X_APP
+
+_________________________________________________
+
+SCENARIO DETAILS:
+- DEPARTURE AND ARRIVALS TO EPWA, EPLL, EPMO
+- DEPARTURES READY FOR MANUAL TAKEOFF NEAR RUNWAY
+- TO DEPART FROM RWY 33 TAXI TRAFFIC TO CENTERLINE
+- NO HOLDINGS AVAILABLE
+- EPLL TMA DELEGATED TO EPWA_APP
+- SRN902 (EPLL-EPWA)
+
+_________________________________________________

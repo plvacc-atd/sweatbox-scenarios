@@ -1,0 +1,39 @@
+
+	/===============================\
+	| EPPO_APP - APPROACH CONTROLLER|
+	|				|
+	|POLISH VACC ATC TRAINING CENTER|
+	\===============================/
+	 
+________________________________________________
+
+TO CONTROL PLANES:
+- TAG FAMILY MUST BE SET TO -> MATIAS (BUILT-IN)
+- QUICK SETTINGS MENU -> SHOW PILOTING LIST
+
+________________________________________________
+
+INITIALPSEUDOPILOT:EPPO_X_APP
+
+PSEUDOATC:
+- EPWW_CTR
+- EPPO_TWR
+- EPWR_TWR
+
+SWEATBOX WITH MENTOR:
+-  MENTOR - EPPO_X_APP
+- TRAINEE - EPPO_APP
+
+SWEATBOX TRAINEE ONLY:
+- TRAINEE - EPPO_X_APP
+
+_________________________________________________
+
+SCENARIO DETAILS:
+- DEPARTURE AND ARRIVALS TO EPPO, EPWR & EPZG
+- DEPARTURES READY FOR MANUAL TAKEOFF IN EPPO & EPWR
+- EPGD_APP CONTROL EPZG CTR & TMA
+- NO HOLDINGS AVAILABLE
+- EPZG DEPARTURE REQUIRED MANUAL CONTROL AFTER TAKEOFF
+
+_________________________________________________
